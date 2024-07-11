@@ -34,15 +34,17 @@ h2 {
 }
 
 p {
-  max-width: 50rem;
+  /* max-width: 50rem; */
+  width: 900px;
   text-align: center;
   margin-top: 24px;
   margin-bottom: 100px;
 }
 
 .main-content {
-  max-width: 50rem;
-  width: 100%;
+  /* max-width: 50rem;
+  width: 100%; */
+  width: 900px;
   min-height: 400px;
   height: auto;
   padding: 18px 18px 120px 18px;
